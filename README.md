@@ -3,5 +3,6 @@ hello fsmvu
 
 Attendance: 
 
-- Mecit
+- Mecit 
+- Osama
 - Ali 
