@@ -5,3 +5,4 @@ Attendance:
 
 - Mecit 
 - Osama
+- Ali 
