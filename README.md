@@ -6,3 +6,5 @@ Attendance:
 - Mecit 
 - Osama
 - Ali 
+
+Abdulkarim
