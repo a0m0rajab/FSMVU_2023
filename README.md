@@ -3,4 +3,5 @@ hello fsmvu
 
 Attendance: 
 
-- Mecit 
+- Mecit
+- Ali 
