@@ -6,3 +6,4 @@ Attendance:
 - Mecit 
 - Osama
 - Ali 
+- absi
